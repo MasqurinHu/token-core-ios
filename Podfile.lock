@@ -7,7 +7,7 @@ PODS:
   - SwiftLint (0.27.0)
 
 DEPENDENCIES:
-  - BigInt (= 3.0.0)
+  - BigInt
   - CryptoSwift (= 0.9.0)
   - GRKOpenSSLFramework
   - SwiftLint
@@ -27,6 +27,6 @@ SPEC CHECKSUMS:
   SipHash: c6e9e43e9c531b5bc6602545130c26194a6d31ce
   SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
 
-PODFILE CHECKSUM: 41227a2ee6fb8190248bc37bcb307ac884181a14
+PODFILE CHECKSUM: 9069ddfbf055a11b4b9ac979cf1d464f23ee7345
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.5.2
